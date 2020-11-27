@@ -1,0 +1,66 @@
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.csproj.GenerateResource.cache
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.csproj.CoreCompileInputs.cache
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.Register.resources
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.login.resources
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\MySql.Data.dll
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\Google.Protobuf.dll
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\Zstandard.Net.dll
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\BouncyCastle.Crypto.dll
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\Ubiety.Dns.Core.dll
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\Renci.SshNet.dll
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\System.Buffers.dll
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\K4os.Compression.LZ4.dll
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\K4os.Hash.xxHash.dll
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\System.Memory.dll
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\System.Numerics.Vectors.dll
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\MySql.Data.xml
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.csproj.CopyComplete
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.register_login.resources
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.Home.resources
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.Acc.resources
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.Alltour.resources
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.EditAcc.resources
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.passchange.resources
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\Tour Bruh.exe.config
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\Tour Bruh.exe
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\Tour Bruh.pdb
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\Tour Bruh.exe.config
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\Tour Bruh.exe
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\Tour Bruh.pdb
+D:\เนื้อหาวิชา\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.csprojAssemblyReference.cache
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\Tour Bruh.exe.config
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\Tour Bruh.exe
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\Tour Bruh.pdb
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\MySql.Data.dll
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\Google.Protobuf.dll
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\Zstandard.Net.dll
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\BouncyCastle.Crypto.dll
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\Ubiety.Dns.Core.dll
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\Renci.SshNet.dll
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\System.Buffers.dll
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\K4os.Compression.LZ4.dll
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\K4os.Hash.xxHash.dll
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\System.Memory.dll
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\System.Numerics.Vectors.dll
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\bin\Debug\MySql.Data.xml
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.csprojAssemblyReference.cache
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\Tour Bruh.exe.config
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.Alltour.resources
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.EditAcc.resources
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.Home.resources
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.passchange.resources
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.register_login.resources
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.login.resources
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.Properties.Resources.resources
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.Register.resources
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.Acc.resources
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.csproj.GenerateResource.cache
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.csproj.CoreCompileInputs.cache
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\ProjectDatabase.csproj.CopyComplete
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\Tour Bruh.exe
+F:\Allsubject\3-2562\database\ject\ProjectDatabase\ProjectDatabase\obj\Debug\Tour Bruh.pdb
